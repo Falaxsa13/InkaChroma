@@ -1,14 +1,37 @@
 {
-  "name": "inkachroma",
-  "displayName": "InkaChroma",
-  "description": "Color theme for Visual Studio Code",
-  "version": "0.0.1",
+  "name": "inkachroma-dark",
+  "displayName": "Inka Chroma Dark",
+  "description": "Inka Chroma Dark Color theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "InkaChromaDark",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Falaxsa13/InkaChroma"
+  },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "atom",
+    "theme",
+    "dark",
+    "one dark",
+    "color",
+    "color-theme",
+    "syntax",
+    "simple",
+    "minimal",
+    "chroma",
+    "inkachroma",
+    "inkachroma dark",
+    "inkachroma-dark",
+    "inkachroma-dark-theme"
+],
   "contributes": {
     "themes": [
       {
@@ -17,5 +40,6 @@
         "path": "./themes/InkaChroma Dark-color-theme.json"
       }
     ]
-  }
+  },
+  "homepage": "https://github.com/Falaxsa13/InkaChroma"
 }
