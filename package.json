@@ -6,7 +6,7 @@
   "publisher": "InkaChromaDark",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.12.0"
   },
   "repository": {
     "type": "git",
