@@ -1,0 +1,21 @@
+{
+  "name": "inkachroma",
+  "displayName": "InkaChroma",
+  "description": "Color theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "InkaChroma Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/InkaChroma Dark-color-theme.json"
+      }
+    ]
+  }
+}
