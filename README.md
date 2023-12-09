@@ -18,6 +18,7 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 Click here to go to the [Changelog](https://github.com/Falaxsa13/InkaChroma/blob/master/CHANGELOG.md)
 
 
+
 ## Customization
 
 ### Custom Font
@@ -36,6 +37,9 @@ InkaChroma Dark supports custom fonts to enhance your coding experience. Follow 
 }
 
 ```
+
+## Font Used
+Helvetica
 
 ## Custom Font for Comments
 
