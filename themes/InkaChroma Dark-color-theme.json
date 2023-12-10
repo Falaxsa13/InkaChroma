@@ -2,34 +2,60 @@
 	"author": "Hans Ibarra",
 	"name": "InkaChroma Dark",
 	"colors": {
+			
+	  // left part of the sidebar
 	  "activityBar.background": "#333842",
-	  "activityBar.foreground": "#D7DAE0",
+	  "activityBar.foreground": "#D7DAE0", 
+
+	  // Hint variable color
 	  "editorInlayHint.background": "#2C313A",
 	  "editorInlayHint.foreground": "#636e83",
+
+	  // idk
 	  "notebook.cellEditorBackground": "#2C313A",
 	  "activityBarBadge.background": "#528BFF",
 	  "activityBarBadge.foreground": "#D7DAE0",
+
+	  // idk
 	  "button.background": "#4D78CC",
 	  "button.foreground": "#FFFFFF",
 	  "button.hoverBackground": "#6087CF",
+
 	  "diffEditor.insertedTextBackground": "#00809B33",
+
+      // top left dropdown menu
 	  "dropdown.background": "#353b45",
 	  "dropdown.border": "#181A1F",
+
+
+	  // Indent Line
 	  "editorIndentGuide.activeBackground1": "#626772",
+
+	  // main background
 	  "editor.background": "#282C34",
 	  "editor.foreground": "#ABB2BF",
+	  
+	  // brackets
 	  "editorBracketHighlight.foreground1": "#DBB164",
 	  "editorBracketHighlight.foreground2": "#F78C6C",
 	  "editorBracketHighlight.foreground3": "#E06C75",
+
+
 	  "editor.lineHighlightBackground": "#99BBFF0A",
 	  "editor.selectionBackground": "#3E4451",
-	  "editorCursor.foreground": "#528BFF",
+
+	  // cursor
+	  "editorCursor.foreground": "#F78C6C",
 	  "editor.findMatchHighlightBackground": "#528BFF3D",
+
+	  //tabs
 	  "editorGroup.border": "#181A1F",
 	  "editorGroupHeader.tabsBackground": "#21252B",
 	  "editorIndentGuide.background1": "#ABB2BF26",
+	  
 	  "editorLineNumber.foreground": "#636D83",
 	  "editorLineNumber.activeForeground": "#ABB2BF",
+
 	  "editorWhitespace.foreground": "#ABB2BF26",
 	  "editorRuler.foreground": "#ABB2BF26",
 	  "editorHoverWidget.background": "#21252B",
@@ -49,7 +75,7 @@
 	  "list.highlightForeground": "#D7DAE0",
 	  "list.inactiveSelectionBackground": "#2C313A",
 	  "list.inactiveSelectionForeground": "#D7DAE0",
-	  "pickerGroup.border": "#528BFF",
+	  "pickerGroup.border": "#2559c1",
 	  "scrollbarSlider.background": "#4E566680",
 	  "scrollbarSlider.activeBackground": "#747D9180",
 	  "scrollbarSlider.hoverBackground": "#5A637580",
@@ -2036,6 +2062,6 @@
 		}
 	  }
 	],
-	"uuid": "32bd64fa-d60a-4858-a5fc-5164cc49a2b8"
+	"uuid": "9b236c57-f78a-4304-8a01-5840017177e2"
   }
 
